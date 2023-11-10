@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Dokumento aprašymas.">
+    <meta name="author" content="Jūsų Vardas Pavardė">
+    <title>Mano Katalogas</title>
+</head>
+<body>
+
+    <!-- Apie skiltis -->
+    <section id="apie">
+        <h2>Apie Mus</h2>
+        <p>Čia galite rasti informaciją apie mus ir mūsų veiklą.</p>
+        <!-- Įterpkite paveikslą -->
+        <img src="kelias_iki_jūsų_katalogo/paveikslas_apie.jpg" alt="Apie mus">
+    </section>
+
+    <!-- Faktų skiltis -->
+    <section id="faktai">
+        <h2>Įdomūs Faktai</h2>
+        <p>Keletas įdomių faktų apie mus ir mūsų darbą.</p>
+        <!-- Įterpkite paveikslą -->
+        <img src="kelias_iki_jūsų_katalogo/paveikslas_faktai.jpg" alt="Įdomūs faktai">
+    </section>
+
+    <!-- Įgūdžių skiltis -->
+    <section id="igudziai">
+        <h2>Mūsų Įgūdžiai</h2>
+        <p>Šiame skyriuje pateiksime informaciją apie mūsų įgūdžius ir kompetencijas.</p>
+        <!-- Įterpkite paveikslą -->
+        <img src="kelias_iki_jūsų_katalogo/paveikslas_igudziai.jpg" alt="Įgūdžiai">
+    </section>
+
+</body>
+</html>
